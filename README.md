@@ -261,7 +261,7 @@ Go to https://www.virustotal.com/gui/home/upload
 
 ## About This Guide
 
-**Author:** Mohamed Amine Essoussi 
+**Author:** Mohamed Amine ESSOUSSI 
 **Date:** 4/26/2026  
 **Purpose:** A reference guide for cybersecurity students learning about specialized search tools.
 
